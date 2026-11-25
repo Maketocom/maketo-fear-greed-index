@@ -8,6 +8,7 @@ authors:
 url: "https://maketo.com/fear-greed"
 repository-code: "https://github.com/Maketocom/maketo-fear-greed-index"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24523489"
 version: "2026-10-31"
 date-released: "2026-10-31"
 abstract: "Maketo's daily Bitcoin market-mood reading from 0 (extreme fear) to 100 (extreme greed), since 1 Jan 2016."

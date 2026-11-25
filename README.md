@@ -46,4 +46,8 @@ The same data is on GitHub ([Maketocom/maketo-fear-greed-index](https://github.c
 Hugging Face ([Maketocom/maketo-fear-greed-index](https://huggingface.co/datasets/Maketocom/maketo-fear-greed-index))
 and Kaggle ([maketocom/maketo-fear-greed-index](https://www.kaggle.com/datasets/maketocom/maketo-fear-greed-index)).
 
+## Permanent copy (DOI)
+
+Every three months a copy is archived at Zenodo, under one permanent DOI: [10.5281/zenodo.24523489](https://doi.org/10.5281/zenodo.24523489). Researchers can cite that DOI; it always leads to the latest version.
+
 This data is for learning and research. It is not financial advice.
