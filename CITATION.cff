@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this data, please credit Maketo with a link to https://maketo.com/fear-greed"
+type: dataset
+title: "Maketo Bitcoin Fear & Greed Index, Daily History"
+authors:
+  - name: "Maketo"
+    website: "https://maketo.com"
+url: "https://maketo.com/fear-greed"
+repository-code: "https://github.com/Maketocom/maketo-fear-greed-index"
+license: CC-BY-4.0
+version: "2026-10-31"
+date-released: "2026-10-31"
+abstract: "Maketo's daily Bitcoin market-mood reading from 0 (extreme fear) to 100 (extreme greed), since 1 Jan 2016."
+keywords:
+  - "bitcoin"
+  - "fear and greed index"
+  - "market sentiment"
+  - "cryptocurrency"
+  - "on-chain"
+  - "maketo"
